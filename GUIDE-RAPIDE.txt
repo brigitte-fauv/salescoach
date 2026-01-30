@@ -1,0 +1,67 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          SALESCOACH - GUIDE DE PARTAGE RAPIDE               ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+📋 ÉTAPE 1 : INSTALLATION (une seule fois)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Double-clic sur :  1-Installer-Cloudflare.bat
+
+⏱️  Durée : ~1 minute
+
+
+📋 ÉTAPE 2 : LANCEMENT AVEC PARTAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Double-clic sur :  2-Demarrer-Application.bat
+
+⏱️  Durée : ~30 secondes
+
+3 fenêtres vont s'ouvrir :
+  1️⃣  Backend (Python)
+  2️⃣  Frontend (Vite)
+  3️⃣  Cloudflare Tunnel
+
+
+📋 ÉTAPE 3 : PARTAGER L'URL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dans la fenêtre "Cloudflare Tunnel", cherchez :
+
++------------------------------------------------------------------+
+|  Your quick Tunnel has been created!
+|  https://random-name-1234.trycloudflare.com
++------------------------------------------------------------------+
+
+👉 Copiez cette URL et envoyez-la à vos collègues !
+
+
+⚠️  IMPORTANT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❌ Ne fermez AUCUNE fenêtre
+✅ Votre PC doit rester allumé
+✅ L'URL est temporaire (change à chaque lancement)
+✅ Vos collègues peuvent accéder de n'importe où
+
+
+🔧 EN CAS DE PROBLÈME
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Problème : "curl n'est pas reconnu"
+Solution : Utilisez Windows 10/11 (curl est intégré)
+          Ou téléchargez manuellement depuis le lien affiché
+
+Problème : "python n'est pas reconnu"
+Solution : Installez Python 3.11+ depuis python.org
+
+Problème : "npm n'est pas reconnu"
+Solution : Installez Node.js 18+ depuis nodejs.org
+
+
+═══════════════════════════════════════════════════════════════
+          Bon partage ! 🚀
+═══════════════════════════════════════════════════════════════

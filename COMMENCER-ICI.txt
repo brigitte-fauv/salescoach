@@ -1,0 +1,152 @@
+═══════════════════════════════════════════════════════════════
+        👋 BONJOUR BRIGITTE - COMMENCEZ ICI !
+═══════════════════════════════════════════════════════════════
+
+🎯 OBJECTIF : 
+   Déployer SalesCoach sur internet avec une URL permanente
+   https://salescoach-frontend.onrender.com
+
+⏱️  TEMPS TOTAL : 15 minutes
+💰 COÛT : 100% GRATUIT
+
+───────────────────────────────────────────────────────────────
+
+📋 SUIVEZ CES 3 ÉTAPES DANS L'ORDRE
+
+┌─────────────────────────────────────────────────────────────┐
+│  ✅ ÉTAPE 1 : Créer le dépôt GitHub (3 minutes)            │
+└─────────────────────────────────────────────────────────────┘
+
+1. Ouvrez votre navigateur et allez sur :
+   👉 https://github.com/new
+
+2. Connectez-vous avec :
+   📧 Email : brigitte@arkange.io
+   👤 Pseudo : brigitte-fauv
+
+3. Sur la page "Create a new repository" :
+   
+   Repository name        : salescoach
+   Description (optionnel): Application analyse de ventes IA
+   Public                 : ✓ (Coché)
+   Add a README file      : ✗ (NE PAS COCHER !)
+
+4. Cliquez le bouton vert "Create repository"
+
+✅ C'EST FAIT ! Passez à l'étape 2
+
+
+┌─────────────────────────────────────────────────────────────┐
+│  ✅ ÉTAPE 2 : Envoyer le code sur GitHub (2 minutes)       │
+└─────────────────────────────────────────────────────────────┘
+
+👉 Double-cliquez sur ce fichier :
+   DEPLOYER-MAINTENANT.bat
+
+Le script va :
+- Vérifier que Git est installé
+- Configurer votre identité (brigitte-fauv)
+- Pousser le code automatiquement
+
+⚠️  Git va vous demander de vous authentifier :
+   - Nom d'utilisateur : brigitte-fauv
+   - Mot de passe : votre mot de passe GitHub
+
+✅ Quand vous voyez "SUCCÈS !", passez à l'étape 3
+
+
+┌─────────────────────────────────────────────────────────────┐
+│  ✅ ÉTAPE 3 : Déployer sur Render.com (7 minutes)          │
+└─────────────────────────────────────────────────────────────┘
+
+1. Allez sur : https://render.com
+
+2. Cliquez "Get Started for Free"
+
+3. Choisissez "Sign in with GitHub"
+   (Autorisez l'accès à vos dépôts)
+
+4. Dans le dashboard Render :
+   - Cliquez "New +" (en haut à droite)
+   - Cliquez "Blueprint"
+   - Sélectionnez "salescoach" dans la liste
+   - Cliquez "Apply"
+
+5. ⚠️  CRUCIAL : Pendant le déploiement
+   - Cliquez sur "salescoach-backend"
+   - Allez dans "Environment"
+   - Trouvez "GEMINI_API_KEY"
+   - Cliquez "Edit"
+   - Ouvrez backend\.env et copiez votre clé
+   - Collez-la dans Render
+   - Cliquez "Save Changes"
+
+6. ⏱️  Attendez 5-10 minutes
+   (Vous verrez des logs défiler - c'est normal)
+
+✅ Quand "Deploy live" apparaît, c'est prêt !
+
+───────────────────────────────────────────────────────────────
+
+🎉 FÉLICITATIONS !
+
+Votre application est en ligne sur :
+👉 https://salescoach-frontend.onrender.com
+
+✅ URL permanente (ne change jamais)
+✅ Accessible 24/7 de partout
+✅ HTTPS sécurisé automatique
+✅ Gratuit pour toujours
+
+───────────────────────────────────────────────────────────────
+
+💡 ASTUCES
+
+⏱️  Première connexion lente ?
+    → Normal ! L'app gratuite "dort" après 15 min
+    → Premier accès = 30 secondes de réveil
+    → Après = instantané
+
+🔄 Modifier l'app plus tard ?
+    → Modifiez votre code
+    → Lancez : DEPLOYER-MAINTENANT.bat
+    → Render redéploie automatiquement !
+
+📧 Partager l'application ?
+    → Envoyez simplement le lien :
+      https://salescoach-frontend.onrender.com
+
+───────────────────────────────────────────────────────────────
+
+🆘 PROBLÈMES ?
+
+❌ Git n'est pas installé ?
+   → Téléchargez : https://git-scm.com/download/win
+
+❌ Authentification GitHub échoue ?
+   → Si vous avez la 2FA, créez un token :
+     https://github.com/settings/tokens
+
+❌ Build failed sur Render ?
+   → Vérifiez les logs dans le dashboard
+   → Contactez-moi !
+
+───────────────────────────────────────────────────────────────
+
+📚 DOCUMENTATION COMPLÈTE
+
+Si vous voulez plus de détails :
+- INSTRUCTIONS-BRIGITTE.txt     (Guide complet)
+- RENDER-MODE-EMPLOI.txt         (Mode d'emploi général)
+- DEPLOYER-SUR-RENDER.md         (Documentation détaillée)
+
+───────────────────────────────────────────────────────────────
+
+✅ PRÊTE ? COMMENCEZ PAR L'ÉTAPE 1 !
+
+Ouvrez votre navigateur et allez sur :
+👉 https://github.com/new
+
+Bonne chance ! 🚀
+
+═══════════════════════════════════════════════════════════════

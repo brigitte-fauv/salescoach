@@ -1,0 +1,562 @@
+2026-01-29 22:12:01 | ================================================================================
+2026-01-29 22:12:01 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:12:01 | ================================================================================
+2026-01-29 22:13:49 | ================================================================================
+2026-01-29 22:13:49 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-29 22:13:49 | Longueur transcription: 109839 caractères
+2026-01-29 22:13:49 | ================================================================================
+2026-01-29 22:15:31 | ================================================================================
+2026-01-29 22:15:31 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:15:31 | ================================================================================
+2026-01-29 22:16:24 | ================================================================================
+2026-01-29 22:16:24 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-29 22:16:24 | Longueur transcription: 109839 caractères
+2026-01-29 22:16:24 | ================================================================================
+2026-01-29 22:16:24 | Appel à l'API Gemini en cours...
+2026-01-29 22:17:58 | ================================================================================
+2026-01-29 22:17:58 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:17:58 | ================================================================================
+2026-01-29 22:17:59 | ================================================================================
+2026-01-29 22:17:59 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:17:59 | ================================================================================
+2026-01-29 22:18:01 | ================================================================================
+2026-01-29 22:18:01 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:18:01 | ================================================================================
+2026-01-29 22:18:03 | ================================================================================
+2026-01-29 22:18:03 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:18:03 | ================================================================================
+2026-01-29 22:18:20 | ================================================================================
+2026-01-29 22:18:20 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:18:20 | ================================================================================
+2026-01-29 22:18:28 | ================================================================================
+2026-01-29 22:18:28 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-29 22:18:28 | ================================================================================
+2026-01-30 08:47:28 | ================================================================================
+2026-01-30 08:47:28 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:47:28 | ================================================================================
+2026-01-30 08:49:42 | ================================================================================
+2026-01-30 08:49:42 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:49:42 | ================================================================================
+2026-01-30 08:50:14 | ================================================================================
+2026-01-30 08:50:14 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-30 08:50:14 | Longueur transcription: 109839 caractères
+2026-01-30 08:50:14 | ================================================================================
+2026-01-30 08:50:14 | Appel à l'API Gemini en cours...
+2026-01-30 08:50:14 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:50:14 | Réponse reçue - Status: 404
+2026-01-30 08:50:14 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 08:51:21 | ================================================================================
+2026-01-30 08:51:21 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:51:21 | ================================================================================
+2026-01-30 08:51:54 | ================================================================================
+2026-01-30 08:51:54 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-latest
+2026-01-30 08:51:54 | Longueur transcription: 109839 caractères
+2026-01-30 08:51:54 | ================================================================================
+2026-01-30 08:51:54 | Appel à l'API Gemini en cours...
+2026-01-30 08:51:54 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:51:55 | Réponse reçue - Status: 400
+2026-01-30 08:51:55 | ERREUR HTTP Gemini 400: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"systemInstruction\": Cannot find field.\nInvalid JSON payload received. Unknown name \"responseMimeType\" at 'generation_config': Cannot find field.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Invalid JSON payload received. Unknown name \"systemInstruction\"
+2026-01-30 08:51:56 | ================================================================================
+2026-01-30 08:51:56 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:51:56 | ================================================================================
+2026-01-30 08:53:33 | ================================================================================
+2026-01-30 08:53:33 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-latest
+2026-01-30 08:53:33 | Longueur transcription: 109839 caractères
+2026-01-30 08:53:33 | ================================================================================
+2026-01-30 08:53:33 | Appel à l'API Gemini en cours...
+2026-01-30 08:53:34 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:53:34 | Réponse reçue - Status: 400
+2026-01-30 08:53:34 | ERREUR HTTP Gemini 400: {
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"systemInstruction\": Cannot find field.\nInvalid JSON payload received. Unknown name \"responseMimeType\" at 'generation_config': Cannot find field.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "description": "Invalid JSON payload received. Unknown name \"systemInstruction\"
+2026-01-30 08:53:35 | ================================================================================
+2026-01-30 08:53:35 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:53:35 | ================================================================================
+2026-01-30 08:53:36 | ================================================================================
+2026-01-30 08:53:36 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:53:36 | ================================================================================
+2026-01-30 08:53:51 | ================================================================================
+2026-01-30 08:53:51 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:53:51 | Longueur transcription: 61001 caractères
+2026-01-30 08:53:51 | ================================================================================
+2026-01-30 08:53:51 | Appel à l'API Gemini en cours...
+2026-01-30 08:53:52 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:53:52 | Réponse reçue - Status: 404
+2026-01-30 08:53:52 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-002 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 08:55:35 | ================================================================================
+2026-01-30 08:55:35 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:55:35 | Longueur transcription: 109839 caractères
+2026-01-30 08:55:35 | ================================================================================
+2026-01-30 08:55:35 | Appel à l'API Gemini en cours...
+2026-01-30 08:55:35 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:55:36 | Réponse reçue - Status: 404
+2026-01-30 08:55:36 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-002 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 08:55:56 | ================================================================================
+2026-01-30 08:55:56 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:55:56 | Longueur transcription: 125090 caractères
+2026-01-30 08:55:56 | ================================================================================
+2026-01-30 08:55:56 | Appel à l'API Gemini en cours...
+2026-01-30 08:55:56 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:55:57 | Réponse reçue - Status: 404
+2026-01-30 08:55:57 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-002 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 08:56:43 | ================================================================================
+2026-01-30 08:56:43 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:56:43 | ================================================================================
+2026-01-30 08:57:23 | ================================================================================
+2026-01-30 08:57:23 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:57:23 | Longueur transcription: 109839 caractères
+2026-01-30 08:57:23 | ================================================================================
+2026-01-30 08:57:23 | Appel à l'API Gemini en cours...
+2026-01-30 08:57:24 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:57:24 | Réponse reçue - Status: 404
+2026-01-30 08:57:24 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-1.5-flash-002 is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 08:58:26 | ================================================================================
+2026-01-30 08:58:26 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 08:58:26 | ================================================================================
+2026-01-30 08:58:57 | ================================================================================
+2026-01-30 08:58:57 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-pro
+2026-01-30 08:58:57 | Longueur transcription: 125090 caractères
+2026-01-30 08:58:57 | ================================================================================
+2026-01-30 08:58:57 | Appel à l'API Gemini en cours...
+2026-01-30 08:58:58 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 08:58:58 | Réponse reçue - Status: 404
+2026-01-30 08:58:58 | ERREUR HTTP Gemini 404: {
+  "error": {
+    "code": 404,
+    "message": "models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+    "status": "NOT_FOUND"
+  }
+}
+
+2026-01-30 09:03:00 | ================================================================================
+2026-01-30 09:03:00 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:03:00 | ================================================================================
+2026-01-30 09:03:35 | ================================================================================
+2026-01-30 09:03:35 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:03:35 | Longueur transcription: 109839 caractères
+2026-01-30 09:03:35 | ================================================================================
+2026-01-30 09:03:35 | Appel à l'API Gemini en cours...
+2026-01-30 09:03:35 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:03:35 | Réponse reçue - Status: 429
+2026-01-30 09:03:35 | ERREUR HTTP Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/gen
+2026-01-30 09:11:03 | ================================================================================
+2026-01-30 09:11:03 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:11:03 | Longueur transcription: 109839 caractères
+2026-01-30 09:11:03 | ================================================================================
+2026-01-30 09:11:03 | Appel à l'API Gemini en cours...
+2026-01-30 09:11:03 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:11:07 | Réponse reçue - Status: 200
+2026-01-30 09:11:07 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:11:07 | Contenu extrait - Longueur: 2163 caractères
+2026-01-30 09:11:07 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser certaines tâches (traduction, fiches produi
+2026-01-30 09:19:01 | ================================================================================
+2026-01-30 09:19:01 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:19:01 | Longueur transcription: 109839 caractères
+2026-01-30 09:19:01 | ================================================================================
+2026-01-30 09:19:01 | Appel à l'API Gemini en cours...
+2026-01-30 09:19:02 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:19:05 | Réponse reçue - Status: 200
+2026-01-30 09:19:05 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:19:05 | Contenu extrait - Longueur: 1918 caractères
+2026-01-30 09:19:05 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (refonte PrestaShop), automatiser des tâches (traduction, fiches prod
+2026-01-30 09:19:06 | ================================================================================
+2026-01-30 09:19:06 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:19:06 | ================================================================================
+2026-01-30 09:19:07 | ================================================================================
+2026-01-30 09:19:07 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:19:07 | ================================================================================
+2026-01-30 09:21:20 | ================================================================================
+2026-01-30 09:21:20 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:21:20 | Longueur transcription: 109839 caractères
+2026-01-30 09:21:20 | ================================================================================
+2026-01-30 09:21:20 | Appel à l'API Gemini en cours...
+2026-01-30 09:21:20 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:21:28 | Réponse reçue - Status: 200
+2026-01-30 09:21:28 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:21:28 | Contenu extrait - Longueur: 2142 caractères
+2026-01-30 09:21:28 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser le service client (chatbot), améliorer la gesti
+2026-01-30 09:21:29 | ================================================================================
+2026-01-30 09:21:29 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:21:29 | ================================================================================
+2026-01-30 09:21:30 | ================================================================================
+2026-01-30 09:21:30 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:21:30 | ================================================================================
+2026-01-30 09:24:59 | ================================================================================
+2026-01-30 09:24:59 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:24:59 | Longueur transcription: 109839 caractères
+2026-01-30 09:24:59 | ================================================================================
+2026-01-30 09:24:59 | Appel à l'API Gemini en cours...
+2026-01-30 09:24:59 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:25:03 | Réponse reçue - Status: 200
+2026-01-30 09:25:03 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:25:03 | Contenu extrait - Longueur: 2427 caractères
+2026-01-30 09:25:03 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser les processus, automatiser des tâches, améliorer la gestion des achats, et augmenter l'effica
+2026-01-30 09:25:04 | ================================================================================
+2026-01-30 09:25:04 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:25:04 | ================================================================================
+2026-01-30 09:25:05 | ================================================================================
+2026-01-30 09:25:05 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:25:05 | ================================================================================
+2026-01-30 09:26:56 | ================================================================================
+2026-01-30 09:26:56 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:26:56 | Longueur transcription: 109839 caractères
+2026-01-30 09:26:56 | ================================================================================
+2026-01-30 09:26:56 | Appel à l'API Gemini en cours...
+2026-01-30 09:26:56 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:27:05 | Réponse reçue - Status: 200
+2026-01-30 09:27:05 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:27:05 | Contenu extrait - Longueur: 2370 caractères
+2026-01-30 09:27:05 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, du service client et de la gestio
+2026-01-30 09:27:06 | ================================================================================
+2026-01-30 09:27:06 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:27:06 | ================================================================================
+2026-01-30 09:27:06 | ================================================================================
+2026-01-30 09:27:06 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:27:06 | ================================================================================
+2026-01-30 09:35:52 | ================================================================================
+2026-01-30 09:35:52 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:35:52 | Longueur transcription: 109839 caractères
+2026-01-30 09:35:52 | ================================================================================
+2026-01-30 09:35:52 | Appel à l'API Gemini en cours...
+2026-01-30 09:35:52 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:35:56 | Réponse reçue - Status: 200
+2026-01-30 09:35:56 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:35:56 | Contenu extrait - Longueur: 2084 caractères
+2026-01-30 09:35:56 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser plusieurs aspects de son entreprise, notamment l'automatisation du service client, l'améliora
+2026-01-30 09:35:57 | ================================================================================
+2026-01-30 09:35:57 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:35:57 | ================================================================================
+2026-01-30 09:35:58 | ================================================================================
+2026-01-30 09:35:58 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:35:58 | ================================================================================
+2026-01-30 09:37:36 | ================================================================================
+2026-01-30 09:37:36 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:37:36 | Longueur transcription: 109839 caractères
+2026-01-30 09:37:36 | ================================================================================
+2026-01-30 09:37:36 | Appel à l'API Gemini en cours...
+2026-01-30 09:37:37 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:37:40 | Réponse reçue - Status: 200
+2026-01-30 09:37:40 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:37:40 | Contenu extrait - Longueur: 2132 caractères
+2026-01-30 09:37:40 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser des tâches (traduction, fiches produits), améli
+2026-01-30 09:37:41 | ================================================================================
+2026-01-30 09:37:41 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:37:41 | ================================================================================
+2026-01-30 09:37:42 | ================================================================================
+2026-01-30 09:37:42 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:37:42 | ================================================================================
+2026-01-30 09:42:42 | ================================================================================
+2026-01-30 09:42:42 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:42:42 | ================================================================================
+2026-01-30 09:42:43 | ================================================================================
+2026-01-30 09:42:43 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:42:43 | ================================================================================
+2026-01-30 09:42:57 | ================================================================================
+2026-01-30 09:42:57 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:42:57 | ================================================================================
+2026-01-30 09:46:04 | ================================================================================
+2026-01-30 09:46:04 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:46:04 | Longueur transcription: 109839 caractères
+2026-01-30 09:46:04 | ================================================================================
+2026-01-30 09:46:04 | Appel à l'API Gemini en cours...
+2026-01-30 09:46:04 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:46:08 | Réponse reçue - Status: 200
+2026-01-30 09:46:08 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:46:08 | Contenu extrait - Longueur: 2446 caractères
+2026-01-30 09:46:08 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans
+2026-01-30 09:46:09 | ================================================================================
+2026-01-30 09:46:09 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:46:09 | ================================================================================
+2026-01-30 09:59:44 | ================================================================================
+2026-01-30 09:59:44 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:59:44 | Longueur transcription: 109839 caractères
+2026-01-30 09:59:44 | ================================================================================
+2026-01-30 09:59:44 | Appel à l'API Gemini en cours...
+2026-01-30 09:59:44 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 09:59:48 | Réponse reçue - Status: 200
+2026-01-30 09:59:48 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 09:59:48 | Contenu extrait - Longueur: 2147 caractères
+2026-01-30 09:59:48 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans
+2026-01-30 09:59:49 | ================================================================================
+2026-01-30 09:59:49 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:59:49 | ================================================================================
+2026-01-30 09:59:50 | ================================================================================
+2026-01-30 09:59:50 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 09:59:50 | ================================================================================
+2026-01-30 10:02:59 | ================================================================================
+2026-01-30 10:02:59 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:02:59 | Longueur transcription: 109839 caractères
+2026-01-30 10:02:59 | ================================================================================
+2026-01-30 10:02:59 | Appel à l'API Gemini en cours...
+2026-01-30 10:02:59 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:03:04 | Réponse reçue - Status: 200
+2026-01-30 10:03:04 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:03:04 | Contenu extrait - Longueur: 2810 caractères
+2026-01-30 10:03:04 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau des achats, de la gestion des stocks, du service client et de l'auto
+2026-01-30 10:28:11 | ================================================================================
+2026-01-30 10:28:11 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:28:11 | Longueur transcription: 109839 caractères
+2026-01-30 10:28:11 | ================================================================================
+2026-01-30 10:28:11 | Appel à l'API Gemini en cours...
+2026-01-30 10:28:11 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:28:16 | Réponse reçue - Status: 200
+2026-01-30 10:28:16 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:28:16 | Contenu extrait - Longueur: 2694 caractères
+2026-01-30 10:28:16 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le prospect exprime un besoin d'automatisation des t\u00e2ches, d'am\u00e9lioration de la gestion des donn\u00e9es, et d'optimisation des pro
+2026-01-30 10:28:17 | ================================================================================
+2026-01-30 10:28:17 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:28:17 | ================================================================================
+2026-01-30 10:28:18 | ================================================================================
+2026-01-30 10:28:18 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:28:18 | ================================================================================
+2026-01-30 10:30:25 | ================================================================================
+2026-01-30 10:30:25 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:30:25 | Longueur transcription: 109839 caractères
+2026-01-30 10:30:25 | ================================================================================
+2026-01-30 10:30:25 | Appel à l'API Gemini en cours...
+2026-01-30 10:30:26 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:30:41 | Réponse reçue - Status: 429
+2026-01-30 10:30:41 | ERREUR HTTP Gemini 429: {
+  "error": {
+    "code": 429,
+    "message": "Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.",
+    "status": "RESOURCE_EXHAUSTED"
+  }
+}
+
+2026-01-30 10:30:42 | ================================================================================
+2026-01-30 10:30:42 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:30:42 | ================================================================================
+2026-01-30 10:30:43 | ================================================================================
+2026-01-30 10:30:43 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:30:43 | ================================================================================
+2026-01-30 10:31:14 | ================================================================================
+2026-01-30 10:31:14 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:31:14 | Longueur transcription: 109839 caractères
+2026-01-30 10:31:14 | ================================================================================
+2026-01-30 10:31:14 | Appel à l'API Gemini en cours...
+2026-01-30 10:31:15 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:31:19 | Réponse reçue - Status: 200
+2026-01-30 10:31:19 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:31:19 | Contenu extrait - Longueur: 2521 caractères
+2026-01-30 10:31:19 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, de la gestion des stocks, du service 
+2026-01-30 10:33:00 | ================================================================================
+2026-01-30 10:33:00 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:33:00 | Longueur transcription: 126444 caractères
+2026-01-30 10:33:00 | ================================================================================
+2026-01-30 10:33:00 | Appel à l'API Gemini en cours...
+2026-01-30 10:33:01 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:33:04 | Réponse reçue - Status: 200
+2026-01-30 10:33:04 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:33:04 | Contenu extrait - Longueur: 2069 caractères
+2026-01-30 10:33:04 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le MEDEF souhaite industrialiser l'identification et la chasse aux nouveaux adhérents, faciliter le travail de Florence, scorer des prospects
+2026-01-30 10:35:04 | ================================================================================
+2026-01-30 10:35:04 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:35:04 | Longueur transcription: 125090 caractères
+2026-01-30 10:35:04 | ================================================================================
+2026-01-30 10:35:04 | Appel à l'API Gemini en cours...
+2026-01-30 10:35:05 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:35:08 | Réponse reçue - Status: 200
+2026-01-30 10:35:08 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:35:08 | Contenu extrait - Longueur: 2332 caractères
+2026-01-30 10:35:08 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "
+2026-01-30 10:40:41 | ================================================================================
+2026-01-30 10:40:41 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:40:41 | Longueur transcription: 125090 caractères
+2026-01-30 10:40:41 | ================================================================================
+2026-01-30 10:40:41 | Appel à l'API Gemini en cours...
+2026-01-30 10:40:42 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:40:54 | Réponse reçue - Status: 200
+2026-01-30 10:40:54 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:40:54 | Contenu extrait - Longueur: 2332 caractères
+2026-01-30 10:40:54 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "
+2026-01-30 10:41:53 | ================================================================================
+2026-01-30 10:41:53 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:41:53 | Longueur transcription: 125090 caractères
+2026-01-30 10:41:53 | ================================================================================
+2026-01-30 10:41:53 | Appel à l'API Gemini en cours...
+2026-01-30 10:41:53 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:42:01 | Réponse reçue - Status: 200
+2026-01-30 10:42:01 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:42:01 | Contenu extrait - Longueur: 2521 caractères
+2026-01-30 10:42:01 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est qua
+2026-01-30 10:45:23 | ================================================================================
+2026-01-30 10:45:23 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:45:23 | ================================================================================
+2026-01-30 10:45:24 | ================================================================================
+2026-01-30 10:45:24 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 10:45:24 | ================================================================================
+2026-01-30 10:47:11 | ================================================================================
+2026-01-30 10:47:11 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:47:11 | Longueur transcription: 109839 caractères
+2026-01-30 10:47:11 | ================================================================================
+2026-01-30 10:47:11 | Appel à l'API Gemini en cours...
+2026-01-30 10:47:11 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 10:47:16 | Réponse reçue - Status: 200
+2026-01-30 10:47:16 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 10:47:16 | Contenu extrait - Longueur: 3150 caractères
+2026-01-30 10:47:16 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des 
+2026-01-30 11:37:00 | ================================================================================
+2026-01-30 11:37:00 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 11:37:00 | ================================================================================
+2026-01-30 11:43:22 | ================================================================================
+2026-01-30 11:43:22 | Démarrage de l'analyseur SalesCoach - LOG DIRECT
+2026-01-30 11:43:22 | ================================================================================
+2026-01-30 14:05:42 | ================================================================================
+2026-01-30 14:05:42 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 14:05:42 | Longueur transcription: 109839 caractères
+2026-01-30 14:05:42 | ================================================================================
+2026-01-30 14:05:42 | Appel à l'API Gemini en cours...
+2026-01-30 14:05:42 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 14:05:47 | Réponse reçue - Status: 200
+2026-01-30 14:05:47 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 14:05:47 | Contenu extrait - Longueur: 3745 caractères
+2026-01-30 14:05:47 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des 
+2026-01-30 14:05:57 | ================================================================================
+2026-01-30 14:05:57 | NOUVELLE REQUÊTE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 14:05:57 | Longueur transcription: 109839 caractères
+2026-01-30 14:05:57 | ================================================================================
+2026-01-30 14:05:57 | Appel à l'API Gemini en cours...
+2026-01-30 14:05:58 | Envoi requête à Gemini (timeout: 90s)...
+2026-01-30 14:06:03 | Réponse reçue - Status: 200
+2026-01-30 14:06:03 | JSON parsé - Clés: ['candidates', 'usageMetadata', 'modelVersion', 'responseId']
+2026-01-30 14:06:03 | Contenu extrait - Longueur: 4228 caractères
+2026-01-30 14:06:03 | Premiers 200 chars: {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment l'automatisation du service client, la gestion des achats, la centralisation d

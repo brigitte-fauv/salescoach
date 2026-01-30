@@ -1,0 +1,2416 @@
+2026-01-29 22:12:01,493 - analyzer - INFO - ================================================================================
+2026-01-29 22:12:01,493 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:12:01,494 - analyzer - INFO - ================================================================================
+2026-01-29 22:13:50,014 - analyzer - INFO - ================================================================================
+2026-01-29 22:13:50,015 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-29 22:13:50,015 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-29 22:13:50,015 - analyzer - INFO - ================================================================================
+2026-01-29 22:15:31,387 - analyzer - INFO - ================================================================================
+2026-01-29 22:15:31,388 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:15:31,388 - analyzer - INFO - ================================================================================
+2026-01-29 22:16:24,407 - analyzer - INFO - ================================================================================
+2026-01-29 22:16:24,407 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-29 22:16:24,407 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-29 22:16:24,407 - analyzer - INFO - ================================================================================
+2026-01-29 22:17:58,736 - analyzer - INFO - ================================================================================
+2026-01-29 22:17:58,736 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:17:58,736 - analyzer - INFO - ================================================================================
+2026-01-29 22:17:59,754 - analyzer - INFO - ================================================================================
+2026-01-29 22:17:59,754 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:17:59,755 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:01,496 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:01,497 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:18:01,497 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:03,325 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:03,326 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:18:03,326 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:20,788 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:20,788 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:18:20,788 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:28,715 - analyzer - INFO - ================================================================================
+2026-01-29 22:18:28,715 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-29 22:18:28,715 - analyzer - INFO - ================================================================================
+2026-01-30 08:47:28,659 - analyzer - INFO - ================================================================================
+2026-01-30 08:47:28,660 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:47:28,660 - analyzer - INFO - ================================================================================
+2026-01-30 08:49:42,951 - analyzer - INFO - ================================================================================
+2026-01-30 08:49:42,951 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:49:42,951 - analyzer - INFO - ================================================================================
+2026-01-30 08:50:14,007 - analyzer - INFO - ================================================================================
+2026-01-30 08:50:14,008 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash
+2026-01-30 08:50:14,008 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 08:50:14,008 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:21,624 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:21,625 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:51:21,625 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:54,164 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:54,165 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-latest
+2026-01-30 08:51:54,165 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 08:51:54,165 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:56,050 - analyzer - INFO - ================================================================================
+2026-01-30 08:51:56,050 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:51:56,050 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:33,755 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:33,755 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-latest
+2026-01-30 08:53:33,756 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 08:53:33,756 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:35,322 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:35,322 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:53:35,322 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:36,154 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:36,154 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:53:36,154 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:51,671 - analyzer - INFO - ================================================================================
+2026-01-30 08:53:51,671 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:53:51,671 - analyzer - INFO - Longueur transcription: 61001 caractères
+2026-01-30 08:53:51,671 - analyzer - INFO - ================================================================================
+2026-01-30 08:55:35,369 - analyzer - INFO - ================================================================================
+2026-01-30 08:55:35,369 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:55:35,369 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 08:55:35,369 - analyzer - INFO - ================================================================================
+2026-01-30 08:55:56,133 - analyzer - INFO - ================================================================================
+2026-01-30 08:55:56,133 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:55:56,133 - analyzer - INFO - Longueur transcription: 125090 caractères
+2026-01-30 08:55:56,133 - analyzer - INFO - ================================================================================
+2026-01-30 08:56:43,088 - analyzer - INFO - ================================================================================
+2026-01-30 08:56:43,088 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:56:43,089 - analyzer - INFO - ================================================================================
+2026-01-30 08:57:23,900 - analyzer - INFO - ================================================================================
+2026-01-30 08:57:23,900 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-1.5-flash-002
+2026-01-30 08:57:23,900 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 08:57:23,900 - analyzer - INFO - ================================================================================
+2026-01-30 08:58:26,508 - analyzer - INFO - ================================================================================
+2026-01-30 08:58:26,509 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 08:58:26,509 - analyzer - INFO - ================================================================================
+2026-01-30 08:58:57,634 - analyzer - INFO - ================================================================================
+2026-01-30 08:58:57,634 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-pro
+2026-01-30 08:58:57,634 - analyzer - INFO - Longueur transcription: 125090 caractères
+2026-01-30 08:58:57,634 - analyzer - INFO - ================================================================================
+2026-01-30 09:03:00,204 - analyzer - INFO - ================================================================================
+2026-01-30 09:03:00,205 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:03:00,205 - analyzer - INFO - ================================================================================
+2026-01-30 09:03:35,174 - analyzer - INFO - ================================================================================
+2026-01-30 09:03:35,174 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:03:35,174 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:03:35,174 - analyzer - INFO - ================================================================================
+2026-01-30 09:11:03,294 - analyzer - INFO - ================================================================================
+2026-01-30 09:11:03,295 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:11:03,295 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:11:03,295 - analyzer - INFO - ================================================================================
+2026-01-30 09:11:07,308 - analyzer - INFO - Réponse LLM reçue, longueur: 2163 caractères
+2026-01-30 09:11:07,308 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:11:07,309 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:11:07,309 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser certaines tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité de ses équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA.",
+      "Besoin de protéger les données de l'entreprise.",
+      "Nécessité d'une adoption rapide et de résultats concrets pour convaincre les équipes.",
+      "Inquiétudes potentielles des employés face à l'IA."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de pré-comptabilité. Ils ont une base de données de 100 000 produits (4000 références). Ils ont deux licences ChatGPT et utilisent Gemini. Ils ont recruté une personne dédiée à la refonte du site internet."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Je suis ravie de voir l'équipe de Basketball Ballers parce que mon fils est basketteur et on achète chez vous."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Arcange enverra une proposition financière pour le diagnostic et la journée Activia."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:11:07,309 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:11:07,309 - analyzer - INFO - Longueur réponse LLM: 2163 caractères
+2026-01-30 09:11:07,311 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:11:07,311 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:11:07,311 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser certaines tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité de ses équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA.",
+      "Besoin de protéger les données de l'entreprise.",
+      "Nécessité d'une adoption rapide et de résultats concrets pour convaincre les équipes.",
+      "Inquiétudes potentielles des employés face à l'IA."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de pré-comptabilité. Ils ont une base de données de 100 000 produits (4000 références). Ils ont deux licences ChatGPT et utilisent Gemini. Ils ont recruté une personne dédiée à la refonte du site internet."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Je suis ravie de voir l'équipe de Basketball Ballers parce que mon fils est basketteur et on achète chez vous."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Arcange enverra une proposition financière pour le diagnostic et la journée Activia."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:11:07,311 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:11:07,311 - analyzer - INFO - Longueur JSON nettoyé: 2163 caractères
+2026-01-30 09:11:07,312 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:11:07,316 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:11:07,320 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:19:01,655 - analyzer - INFO - ================================================================================
+2026-01-30 09:19:01,655 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:19:01,655 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:19:01,655 - analyzer - INFO - ================================================================================
+2026-01-30 09:19:05,387 - analyzer - INFO - Réponse LLM reçue, longueur: 1918 caractères
+2026-01-30 09:19:05,387 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:19:05,387 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:19:05,387 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (refonte PrestaShop), automatiser des tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité des équipes (informatique, marketing, service client)."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Sécurité des données et choix des bons outils",
+      "Résistance potentielle des équipes à l'adoption de l'IA",
+      "Nécessité d'un retour sur investissement rapide"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras (gestion des stocks), et un logiciel de pré-comptabilité. Les données sont dispersées, mais ils travaillent à la centralisation via une boîte mail centralisée. Ils ont deux licences ChatGPT et utilisent Gemini."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Je suis ravie de voir l'équipe de Basketball Ballers parce que mon fils est basketteur et on achète chez vous."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Arcange enverra une proposition financière pour un diagnostic, incluant le coût et le fonctionnement."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim personnalité client"
+  ]
+}
+2026-01-30 09:19:05,388 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:19:05,388 - analyzer - INFO - Longueur réponse LLM: 1918 caractères
+2026-01-30 09:19:05,388 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:19:05,388 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:19:05,388 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite intégrer l'IA pour optimiser son site e-commerce (refonte PrestaShop), automatiser des tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité des équipes (informatique, marketing, service client)."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Sécurité des données et choix des bons outils",
+      "Résistance potentielle des équipes à l'adoption de l'IA",
+      "Nécessité d'un retour sur investissement rapide"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras (gestion des stocks), et un logiciel de pré-comptabilité. Les données sont dispersées, mais ils travaillent à la centralisation via une boîte mail centralisée. Ils ont deux licences ChatGPT et utilisent Gemini."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Je suis ravie de voir l'équipe de Basketball Ballers parce que mon fils est basketteur et on achète chez vous."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Arcange enverra une proposition financière pour un diagnostic, incluant le coût et le fonctionnement."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim personnalité client"
+  ]
+}
+2026-01-30 09:19:05,388 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:19:05,388 - analyzer - INFO - Longueur JSON nettoyé: 1918 caractères
+2026-01-30 09:19:05,388 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:19:05,388 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:19:05,388 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:19:06,206 - analyzer - INFO - ================================================================================
+2026-01-30 09:19:06,206 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:19:06,206 - analyzer - INFO - ================================================================================
+2026-01-30 09:19:07,067 - analyzer - INFO - ================================================================================
+2026-01-30 09:19:07,068 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:19:07,068 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:20,436 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:20,436 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:21:20,436 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:21:20,436 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:28,637 - analyzer - INFO - Réponse LLM reçue, longueur: 2142 caractères
+2026-01-30 09:21:28,637 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:21:28,638 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:21:28,638 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser le service client (chatbot), améliorer la gestion des achats, centraliser les données, et augmenter les compétences de ses équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Protection des données et sécurité",
+      "Nécessité d'acculturation et d'adhésion des équipes",
+      "Complexité de l'intégration avec les systèmes existants",
+      "Coûts potentiels des solutions"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basket, avec des boutiques physiques et un site e-commerce (PrestaShop). Ils utilisent divers outils (Effitras, logiciel de précomptabilité, Crisp) mais ont des difficultés à centraliser et exploiter leurs données. Ils ont une équipe commerciale et sont en train de recruter du personnel informatique. Ils ont déjà des licences ChatGPT et Gemini."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "C'est intéressant, c'est qu'on voit son cheminement."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Le commercial doit envoyer une proposition financière pour le diagnostic et la journée Activia."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:21:28,638 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:21:28,638 - analyzer - INFO - Longueur réponse LLM: 2142 caractères
+2026-01-30 09:21:28,639 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:21:28,639 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:21:28,639 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser le service client (chatbot), améliorer la gestion des achats, centraliser les données, et augmenter les compétences de ses équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Protection des données et sécurité",
+      "Nécessité d'acculturation et d'adhésion des équipes",
+      "Complexité de l'intégration avec les systèmes existants",
+      "Coûts potentiels des solutions"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basket, avec des boutiques physiques et un site e-commerce (PrestaShop). Ils utilisent divers outils (Effitras, logiciel de précomptabilité, Crisp) mais ont des difficultés à centraliser et exploiter leurs données. Ils ont une équipe commerciale et sont en train de recruter du personnel informatique. Ils ont déjà des licences ChatGPT et Gemini."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "C'est intéressant, c'est qu'on voit son cheminement."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Le commercial doit envoyer une proposition financière pour le diagnostic et la journée Activia."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:21:28,639 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:21:28,639 - analyzer - INFO - Longueur JSON nettoyé: 2142 caractères
+2026-01-30 09:21:28,640 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:21:28,641 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:21:28,641 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:21:29,423 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:29,423 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:21:29,423 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:30,284 - analyzer - INFO - ================================================================================
+2026-01-30 09:21:30,285 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:21:30,285 - analyzer - INFO - ================================================================================
+2026-01-30 09:24:59,333 - analyzer - INFO - ================================================================================
+2026-01-30 09:24:59,333 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:24:59,333 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:24:59,334 - analyzer - INFO - ================================================================================
+2026-01-30 09:25:03,649 - analyzer - INFO - Réponse LLM reçue, longueur: 2427 caractères
+2026-01-30 09:25:03,649 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:25:03,650 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:25:03,650 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser les processus, automatiser des tâches, améliorer la gestion des achats, et augmenter l'efficacité des équipes, tout en maîtrisant les coûts et en assurant la sécurité des données."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Sécurité des données et protection contre les fuites",
+      "Résistance au changement de certaines équipes",
+      "Coûts potentiels élevés des solutions IA",
+      "Nécessité d'une acculturation à l'IA au sein de l'entreprise"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une boutique en ligne (PrestaShop) et plusieurs magasins physiques. Ils utilisent divers logiciels (Effitras, logiciel de précomptabilité) et ont une base de données de 100 000 produits. Ils ont des licences ChatGPT et Gemini, mais l'utilisation de Gemini est limitée. La prise de décision est rapide car l'entreprise est dirigée par un couple."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Moi, ce qui me paraît après difficile, et je pense que c'est là-dessus qu'une boîte comme la vôtre a une vraie plus-value, c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic et de la journée ActiveIA."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:25:03,650 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:25:03,650 - analyzer - INFO - Longueur réponse LLM: 2427 caractères
+2026-01-30 09:25:03,651 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:25:03,651 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:25:03,651 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser les processus, automatiser des tâches, améliorer la gestion des achats, et augmenter l'efficacité des équipes, tout en maîtrisant les coûts et en assurant la sécurité des données."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Sécurité des données et protection contre les fuites",
+      "Résistance au changement de certaines équipes",
+      "Coûts potentiels élevés des solutions IA",
+      "Nécessité d'une acculturation à l'IA au sein de l'entreprise"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une boutique en ligne (PrestaShop) et plusieurs magasins physiques. Ils utilisent divers logiciels (Effitras, logiciel de précomptabilité) et ont une base de données de 100 000 produits. Ils ont des licences ChatGPT et Gemini, mais l'utilisation de Gemini est limitée. La prise de décision est rapide car l'entreprise est dirigée par un couple."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "Moi, ce qui me paraît après difficile, et je pense que c'est là-dessus qu'une boîte comme la vôtre a une vraie plus-value, c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic et de la journée ActiveIA."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:25:03,651 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:25:03,651 - analyzer - INFO - Longueur JSON nettoyé: 2427 caractères
+2026-01-30 09:25:03,651 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:25:03,652 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:25:03,652 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:25:04,453 - analyzer - INFO - ================================================================================
+2026-01-30 09:25:04,453 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:25:04,453 - analyzer - INFO - ================================================================================
+2026-01-30 09:25:05,330 - analyzer - INFO - ================================================================================
+2026-01-30 09:25:05,331 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:25:05,331 - analyzer - INFO - ================================================================================
+2026-01-30 09:26:56,366 - analyzer - INFO - ================================================================================
+2026-01-30 09:26:56,367 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:26:56,367 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:26:56,367 - analyzer - INFO - ================================================================================
+2026-01-30 09:27:05,247 - analyzer - INFO - Réponse LLM reçue, longueur: 2370 caractères
+2026-01-30 09:27:05,248 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:27:05,248 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:27:05,248 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, du service client et de la gestion des stocks, en intégrant l'IA pour gagner en efficacité et réduire les coûts. Ils cherchent à centraliser leurs données et à automatiser certaines tâches, tout en maîtrisant les risques liés à la sécurité des données et à l'adoption de l'IA par leurs équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils et risque de se perdre",
+      "Sécurité des données",
+      "Adoption de l'IA par les équipes",
+      "Coût des solutions"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en forte croissance, spécialisée dans la distribution d'articles de basketball. Ils possèdent un site e-commerce (PrestaShop) et plusieurs boutiques physiques. Leur structure est organisée en holding avec des filiales par magasin. Ils utilisent divers logiciels pour la gestion des stocks, la comptabilité et le service client, mais peinent à les intégrer efficacement. Ils sont conscients de la nécessité d'intégrer l'IA pour rester compétitifs, mais cherchent un accompagnement sur mesure pour identifier les solutions les plus adaptées à leurs besoins et à leur budget."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Moi, je suis personnellement très intéressée à l'IA parce que je trouve qu'il y a un potentiel derrière que beaucoup de gens méconnaissent."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Archangel enverra une proposition financière pour le coût du diagnostic et de la journée Activia."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:27:05,248 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:27:05,248 - analyzer - INFO - Longueur réponse LLM: 2370 caractères
+2026-01-30 09:27:05,249 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:27:05,250 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:27:05,250 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Basketballers souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, du service client et de la gestion des stocks, en intégrant l'IA pour gagner en efficacité et réduire les coûts. Ils cherchent à centraliser leurs données et à automatiser certaines tâches, tout en maîtrisant les risques liés à la sécurité des données et à l'adoption de l'IA par leurs équipes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils et risque de se perdre",
+      "Sécurité des données",
+      "Adoption de l'IA par les équipes",
+      "Coût des solutions"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en forte croissance, spécialisée dans la distribution d'articles de basketball. Ils possèdent un site e-commerce (PrestaShop) et plusieurs boutiques physiques. Leur structure est organisée en holding avec des filiales par magasin. Ils utilisent divers logiciels pour la gestion des stocks, la comptabilité et le service client, mais peinent à les intégrer efficacement. Ils sont conscients de la nécessité d'intégrer l'IA pour rester compétitifs, mais cherchent un accompagnement sur mesure pour identifier les solutions les plus adaptées à leurs besoins et à leur budget."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Moi, je suis personnellement très intéressée à l'IA parce que je trouve qu'il y a un potentiel derrière que beaucoup de gens méconnaissent."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Archangel enverra une proposition financière pour le coût du diagnostic et de la journée Activia."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:27:05,250 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:27:05,250 - analyzer - INFO - Longueur JSON nettoyé: 2370 caractères
+2026-01-30 09:27:05,250 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:27:05,252 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:27:05,252 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:27:06,063 - analyzer - INFO - ================================================================================
+2026-01-30 09:27:06,064 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:27:06,064 - analyzer - INFO - ================================================================================
+2026-01-30 09:27:06,866 - analyzer - INFO - ================================================================================
+2026-01-30 09:27:06,867 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:27:06,867 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:52,104 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:52,104 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:35:52,104 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:35:52,104 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:56,616 - analyzer - INFO - Réponse LLM reçue, longueur: 2084 caractères
+2026-01-30 09:35:56,617 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:35:56,617 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:35:56,617 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser plusieurs aspects de son entreprise, notamment l'automatisation du service client, l'amélioration de la gestion des achats, la refonte du site web, et l'augmentation des compétences des employés."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Nécessité de protéger les données de l'entreprise",
+      "Besoin d'une adoption rapide et de résultats concrets pour convaincre les équipes",
+      "Inquiétudes potentielles des employés face à l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont deux licences ChatGPT, une licence Gamma, et utilisent Google Workspace avec Gemini. Ils ont une base de données d'environ 100 000 produits et 4 000 références. Les décisions sont prises rapidement par le conjoint de Mélissande, fondateur de l'entreprise."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est intéressant, c'est qu'on voit son cheminement."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic et de la journée ActiveIA."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:35:56,617 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:35:56,617 - analyzer - INFO - Longueur réponse LLM: 2084 caractères
+2026-01-30 09:35:56,618 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:35:56,618 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:35:56,618 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser plusieurs aspects de son entreprise, notamment l'automatisation du service client, l'amélioration de la gestion des achats, la refonte du site web, et l'augmentation des compétences des employés."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Nécessité de protéger les données de l'entreprise",
+      "Besoin d'une adoption rapide et de résultats concrets pour convaincre les équipes",
+      "Inquiétudes potentielles des employés face à l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont deux licences ChatGPT, une licence Gamma, et utilisent Google Workspace avec Gemini. Ils ont une base de données d'environ 100 000 produits et 4 000 références. Les décisions sont prises rapidement par le conjoint de Mélissande, fondateur de l'entreprise."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est intéressant, c'est qu'on voit son cheminement."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic et de la journée ActiveIA."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim personnalité client",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:35:56,618 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:35:56,618 - analyzer - INFO - Longueur JSON nettoyé: 2084 caractères
+2026-01-30 09:35:56,618 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:35:56,619 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:35:56,619 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:35:57,495 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:57,495 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:35:57,495 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:58,430 - analyzer - INFO - ================================================================================
+2026-01-30 09:35:58,430 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:35:58,430 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:36,760 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:36,760 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:37:36,760 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:37:36,760 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:40,571 - analyzer - INFO - Réponse LLM reçue, longueur: 2132 caractères
+2026-01-30 09:37:40,571 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:37:40,571 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:37:40,572 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser des tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité des équipes (informatique, service client, marketing, RH)."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Nécessité de protéger les données de l'entreprise",
+      "Besoin d'adopter des outils rapidement efficaces",
+      "Inquiétudes potentielles des équipes face à l'IA",
+      "Complexité de centraliser et d'analyser les données dispersées"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras (gestion des stocks), un logiciel de pré-comptabilité, et déploient CRISP pour le service client. Ils ont deux licences ChatGPT et utilisent Gemini. La décision est rapide car le fondateur est le conjoint de Mélissande."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:37:40,572 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:37:40,572 - analyzer - INFO - Longueur réponse LLM: 2132 caractères
+2026-01-30 09:37:40,573 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:37:40,573 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:37:40,573 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite explorer l'IA pour optimiser son site e-commerce (PrestaShop), automatiser des tâches (traduction, fiches produits), améliorer la gestion des achats et des stocks, et augmenter l'efficacité des équipes (informatique, service client, marketing, RH)."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Multiplicité des outils IA et risque de se perdre",
+      "Nécessité de protéger les données de l'entreprise",
+      "Besoin d'adopter des outils rapidement efficaces",
+      "Inquiétudes potentielles des équipes face à l'IA",
+      "Complexité de centraliser et d'analyser les données dispersées"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras (gestion des stocks), un logiciel de pré-comptabilité, et déploient CRISP pour le service client. Ils ont deux licences ChatGPT et utilisent Gemini. La décision est rapide car le fondateur est le conjoint de Mélissande."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:37:40,573 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:37:40,573 - analyzer - INFO - Longueur JSON nettoyé: 2132 caractères
+2026-01-30 09:37:40,574 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:37:40,575 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:37:40,575 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:37:41,501 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:41,501 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:37:41,501 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:42,507 - analyzer - INFO - ================================================================================
+2026-01-30 09:37:42,508 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:37:42,508 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:42,780 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:42,780 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:42:42,780 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:43,745 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:43,745 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:42:43,745 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:57,864 - analyzer - INFO - ================================================================================
+2026-01-30 09:42:57,864 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:42:57,864 - analyzer - INFO - ================================================================================
+2026-01-30 09:46:04,033 - analyzer - INFO - ================================================================================
+2026-01-30 09:46:04,033 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:46:04,033 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:46:04,033 - analyzer - INFO - ================================================================================
+2026-01-30 09:46:08,178 - analyzer - INFO - Réponse LLM reçue, longueur: 2446 caractères
+2026-01-30 09:46:08,178 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:46:08,178 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:46:08,178 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans leur site web et leurs processus internes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA",
+      "Besoin de protéger les données de l'entreprise",
+      "Nécessité d'obtenir des résultats rapides pour encourager l'adoption de l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise est une PME familiale dans un secteur concurrentiel. Ils utilisent déjà plusieurs outils numériques (PrestaShop, Effitras, logiciel de précomptabilité, Crisp). Ils ont une base de données de 100 000 produits et environ 4000 références. Ils ont une holding avec des filiales par magasin et une filiale web."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, peut-être dès le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème. Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte. Parce qu'on est mine de rien une petite entreprise. Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement. Donc, il y a peut-être un intermédiaire à trouver avec la BIA."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 09:46:08,178 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:46:08,178 - analyzer - INFO - Longueur réponse LLM: 2446 caractères
+2026-01-30 09:46:08,179 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:46:08,179 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:46:08,179 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans leur site web et leurs processus internes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA",
+      "Besoin de protéger les données de l'entreprise",
+      "Nécessité d'obtenir des résultats rapides pour encourager l'adoption de l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise est une PME familiale dans un secteur concurrentiel. Ils utilisent déjà plusieurs outils numériques (PrestaShop, Effitras, logiciel de précomptabilité, Crisp). Ils ont une base de données de 100 000 produits et environ 4000 références. Ils ont une holding avec des filiales par magasin et une filiale web."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, peut-être dès le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème. Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte. Parce qu'on est mine de rien une petite entreprise. Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement. Donc, il y a peut-être un intermédiaire à trouver avec la BIA."
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 09:46:08,179 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:46:08,179 - analyzer - INFO - Longueur JSON nettoyé: 2446 caractères
+2026-01-30 09:46:08,179 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:46:08,180 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:46:08,180 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:46:09,027 - analyzer - INFO - ================================================================================
+2026-01-30 09:46:09,027 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:46:09,027 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:44,434 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:44,434 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 09:59:44,434 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 09:59:44,435 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:48,592 - analyzer - INFO - Réponse LLM reçue, longueur: 2147 caractères
+2026-01-30 09:59:48,592 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:59:48,592 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 09:59:48,592 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans leur site web et leurs processus internes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA",
+      "Besoin de protéger les données de l'entreprise",
+      "Nécessité d'avoir des résultats rapides pour encourager l'adoption de l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise est une PME familiale dans un secteur concurrentiel. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont une base de données de 100 000 produits et 4 000 références. Ils ont des licences ChatGPT et Gemini, mais l'usage de Gemini est limité."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Si c'est quelque chose qui se fait petit à petit, pour moi, peut-être dès le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème. Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:59:48,592 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:59:48,592 - analyzer - INFO - Longueur réponse LLM: 2147 caractères
+2026-01-30 09:59:48,594 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:59:48,595 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 09:59:48,595 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client exprime un besoin d'automatisation des tâches, d'amélioration de la gestion des achats et des stocks, et d'intégration de l'IA dans leur site web et leurs processus internes."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "Crainte de la complexité et de la multiplicité des outils IA",
+      "Besoin de protéger les données de l'entreprise",
+      "Nécessité d'avoir des résultats rapides pour encourager l'adoption de l'IA"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise est une PME familiale dans un secteur concurrentiel. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont une base de données de 100 000 produits et 4 000 références. Ils ont des licences ChatGPT et Gemini, mais l'usage de Gemini est limité."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Si c'est quelque chose qui se fait petit à petit, pour moi, peut-être dès le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème. Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte."
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette"
+  ]
+}
+2026-01-30 09:59:48,595 - analyzer - DEBUG - ================================================================================
+2026-01-30 09:59:48,595 - analyzer - INFO - Longueur JSON nettoyé: 2147 caractères
+2026-01-30 09:59:48,595 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:59:48,597 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 09:59:48,598 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 09:59:49,589 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:49,590 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:59:49,590 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:50,406 - analyzer - INFO - ================================================================================
+2026-01-30 09:59:50,406 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 09:59:50,407 - analyzer - INFO - ================================================================================
+2026-01-30 10:02:59,242 - analyzer - INFO - ================================================================================
+2026-01-30 10:02:59,242 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:02:59,242 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 10:02:59,242 - analyzer - INFO - ================================================================================
+2026-01-30 10:03:04,062 - analyzer - INFO - Réponse LLM reçue, longueur: 2810 caractères
+2026-01-30 10:03:04,062 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:03:04,062 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:03:04,063 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau des achats, de la gestion des stocks, du service client et de l'automatisation des tâches. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et améliorer l'expérience client, tout en maîtrisant la sécurité des données."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise Basketballers est une entreprise familiale en forte croissance, spécialisée dans la distribution d'articles de basketball. Ils ont une présence en ligne (PrestaShop) et plusieurs boutiques physiques. Ils utilisent divers outils (Effitras, logiciel de précomptabilité, Crisp) mais ont des difficultés à centraliser et exploiter leurs données. Ils sont conscients de la nécessité d'intégrer l'IA pour rester compétitifs, mais craignent de se perdre dans la multiplicité des solutions et de compromettre la sécurité de leurs données."
+  },
+  "budgetEstime": { "present": false, "valeurOuFourchette": "" },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème.",
+      "[Mélissande KRETZ] Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte.",
+      "[Mélissande KRETZ] Parce qu'on est mine de rien une petite entreprise. Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement. Donc, il y a peut-être un intermédiaire à trouver avec la BIA."
+    ]
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:03:04,063 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:03:04,063 - analyzer - INFO - Longueur réponse LLM: 2810 caractères
+2026-01-30 10:03:04,064 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:03:04,064 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:03:04,064 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau des achats, de la gestion des stocks, du service client et de l'automatisation des tâches. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et améliorer l'expérience client, tout en maîtrisant la sécurité des données."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise Basketballers est une entreprise familiale en forte croissance, spécialisée dans la distribution d'articles de basketball. Ils ont une présence en ligne (PrestaShop) et plusieurs boutiques physiques. Ils utilisent divers outils (Effitras, logiciel de précomptabilité, Crisp) mais ont des difficultés à centraliser et exploiter leurs données. Ils sont conscients de la nécessité d'intégrer l'IA pour rester compétitifs, mais craignent de se perdre dans la multiplicité des solutions et de compromettre la sécurité de leurs données."
+  },
+  "budgetEstime": { "present": false, "valeurOuFourchette": "" },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème.",
+      "[Mélissande KRETZ] Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte.",
+      "[Mélissande KRETZ] Parce qu'on est mine de rien une petite entreprise. Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement. Donc, il y a peut-être un intermédiaire à trouver avec la BIA."
+    ]
+  },
+  "noteGlobale": 7,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:03:04,064 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:03:04,064 - analyzer - INFO - Longueur JSON nettoyé: 2810 caractères
+2026-01-30 10:03:04,064 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:03:04,065 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:03:04,065 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:28:11,101 - analyzer - INFO - ================================================================================
+2026-01-30 10:28:11,102 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:28:11,102 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 10:28:11,102 - analyzer - INFO - ================================================================================
+2026-01-30 10:28:16,489 - analyzer - INFO - Réponse LLM reçue, longueur: 2694 caractères
+2026-01-30 10:28:16,489 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:28:16,489 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:28:16,489 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le prospect exprime un besoin d'automatisation des t\u00e2ches, d'am\u00e9lioration de la gestion des donn\u00e9es, et d'optimisation des processus d'achat et de vente. Ils cherchent \u00e0 int\u00e9grer l'IA pour gagner en efficacit\u00e9 et rester comp\u00e9titifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[M\u00e9lissande KRETZ] comment on prot\u00e8ge l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe o\u00f9, comment on s\u00e9lectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise Basketballers est une entreprise familiale en forte croissance, mais avec des ressources limit\u00e9es. Ils utilisent PrestaShop, Effitras, et un logiciel de pr\u00e9-comptabilit\u00e9. Ils ont une base de donn\u00e9es d'environ 100 000 produits et 4 000 r\u00e9f\u00e9rences. Ils sont en train de refondre leur site internet et cherchent \u00e0 automatiser certaines t\u00e2ches. La d\u00e9cision est rapide car le conjoint de M\u00e9lissande est le fondateur."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[M\u00e9lissande KRETZ] Si c'est quelque chose qui se fait petit \u00e0 petit, pour moi, peut-\u00eatre d\u00e8s le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[M\u00e9lissande KRETZ] Le sch\u00e9ma est convaincant. C'est cette \u00e9tape-l\u00e0 qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financi\u00e8re pour le co\u00fbt du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[M\u00e9lissande KRETZ] Mais c'est de faire fonctionner tout \u00e7a ensemble qui nous pose probl\u00e8me. Et c'est vrai qu'il n'y a pas de logiciel sur le march\u00e9 qui soit efficace \u00e0 la taille de notre bo\u00eete.",
+      "[M\u00e9lissande KRETZ] J'ai une impression tr\u00e8s mitig\u00e9e."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprim\u00e9",
+    "Craintes et freins collect\u00e9s",
+    "Infos de contexte collect\u00e9es",
+    "Signaux d'int\u00e9r\u00eat pour acheter",
+    "Verbatim positif / int\u00e9r\u00eat client",
+    "Prochaine action act\u00e9e avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estim\u00e9 ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:28:16,490 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:28:16,490 - analyzer - INFO - Longueur réponse LLM: 2694 caractères
+2026-01-30 10:28:16,490 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:28:16,490 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:28:16,490 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le prospect exprime un besoin d'automatisation des t\u00e2ches, d'am\u00e9lioration de la gestion des donn\u00e9es, et d'optimisation des processus d'achat et de vente. Ils cherchent \u00e0 int\u00e9grer l'IA pour gagner en efficacit\u00e9 et rester comp\u00e9titifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[M\u00e9lissande KRETZ] comment on prot\u00e8ge l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe o\u00f9, comment on s\u00e9lectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "L'entreprise Basketballers est une entreprise familiale en forte croissance, mais avec des ressources limit\u00e9es. Ils utilisent PrestaShop, Effitras, et un logiciel de pr\u00e9-comptabilit\u00e9. Ils ont une base de donn\u00e9es d'environ 100 000 produits et 4 000 r\u00e9f\u00e9rences. Ils sont en train de refondre leur site internet et cherchent \u00e0 automatiser certaines t\u00e2ches. La d\u00e9cision est rapide car le conjoint de M\u00e9lissande est le fondateur."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[M\u00e9lissande KRETZ] Si c'est quelque chose qui se fait petit \u00e0 petit, pour moi, peut-\u00eatre d\u00e8s le mois de mars, pour vraiment rentrer dans le vif du sujet."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[M\u00e9lissande KRETZ] Le sch\u00e9ma est convaincant. C'est cette \u00e9tape-l\u00e0 qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financi\u00e8re pour le co\u00fbt du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[M\u00e9lissande KRETZ] Mais c'est de faire fonctionner tout \u00e7a ensemble qui nous pose probl\u00e8me. Et c'est vrai qu'il n'y a pas de logiciel sur le march\u00e9 qui soit efficace \u00e0 la taille de notre bo\u00eete.",
+      "[M\u00e9lissande KRETZ] J'ai une impression tr\u00e8s mitig\u00e9e."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprim\u00e9",
+    "Craintes et freins collect\u00e9s",
+    "Infos de contexte collect\u00e9es",
+    "Signaux d'int\u00e9r\u00eat pour acheter",
+    "Verbatim positif / int\u00e9r\u00eat client",
+    "Prochaine action act\u00e9e avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estim\u00e9 ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:28:16,490 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:28:16,490 - analyzer - INFO - Longueur JSON nettoyé: 2694 caractères
+2026-01-30 10:28:16,494 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:28:16,495 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:28:16,495 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:28:17,424 - analyzer - INFO - ================================================================================
+2026-01-30 10:28:17,424 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:28:17,424 - analyzer - INFO - ================================================================================
+2026-01-30 10:28:18,300 - analyzer - INFO - ================================================================================
+2026-01-30 10:28:18,300 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:28:18,300 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:25,711 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:25,711 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:30:25,711 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 10:30:25,711 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:42,483 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:42,483 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:30:42,484 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:43,294 - analyzer - INFO - ================================================================================
+2026-01-30 10:30:43,295 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:30:43,295 - analyzer - INFO - ================================================================================
+2026-01-30 10:31:14,897 - analyzer - INFO - ================================================================================
+2026-01-30 10:31:14,897 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:31:14,897 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 10:31:14,897 - analyzer - INFO - ================================================================================
+2026-01-30 10:31:19,488 - analyzer - INFO - Réponse LLM reçue, longueur: 2521 caractères
+2026-01-30 10:31:19,488 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:31:19,488 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:31:19,488 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, de la gestion des stocks, du service client et de la création de visuels produits. Ils cherchent à centraliser leurs données et à automatiser certaines tâches pour gagner en efficacité et réduire les coûts. Ils sont particulièrement intéressés par l'IA générative et son application à leur site e-commerce."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] Il y a d'autres personnes qui ont des réactions d'affolement presque en mode très fermé. Donc, je pense qu'il y a déjà une acculturation à amener au sein de l'entreprise.",
+      "[Mélissande KRETZ] comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale qui vend des articles de basket. Ils ont une boutique en ligne (PrestaShop) et plusieurs magasins physiques. Ils utilisent divers logiciels pour la gestion des stocks, la comptabilité et le service client. Ils ont une base de données d'environ 100 000 produits et 4 000 références différentes. Ils sont conscients de la nécessité d'intégrer l'IA dans leur entreprise pour rester compétitifs."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim positif / intérêt client"
+  ]
+}
+2026-01-30 10:31:19,489 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:31:19,489 - analyzer - INFO - Longueur réponse LLM: 2521 caractères
+2026-01-30 10:31:19,490 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:31:19,490 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:31:19,490 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment au niveau de l'informatique, des achats, de la gestion des stocks, du service client et de la création de visuels produits. Ils cherchent à centraliser leurs données et à automatiser certaines tâches pour gagner en efficacité et réduire les coûts. Ils sont particulièrement intéressés par l'IA générative et son application à leur site e-commerce."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] Il y a d'autres personnes qui ont des réactions d'affolement presque en mode très fermé. Donc, je pense qu'il y a déjà une acculturation à amener au sein de l'entreprise.",
+      "[Mélissande KRETZ] comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où"
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale qui vend des articles de basket. Ils ont une boutique en ligne (PrestaShop) et plusieurs magasins physiques. Ils utilisent divers logiciels pour la gestion des stocks, la comptabilité et le service client. Ils ont une base de données d'environ 100 000 produits et 4 000 références différentes. Ils sont conscients de la nécessité d'intégrer l'IA dans leur entreprise pour rester compétitifs."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim positif / intérêt client"
+  ]
+}
+2026-01-30 10:31:19,491 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:31:19,491 - analyzer - INFO - Longueur JSON nettoyé: 2521 caractères
+2026-01-30 10:31:19,491 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:31:19,493 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:31:19,493 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:33:00,638 - analyzer - INFO - ================================================================================
+2026-01-30 10:33:00,638 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:33:00,638 - analyzer - INFO - Longueur transcription: 126444 caractères
+2026-01-30 10:33:00,638 - analyzer - INFO - ================================================================================
+2026-01-30 10:33:04,694 - analyzer - INFO - Réponse LLM reçue, longueur: 2069 caractères
+2026-01-30 10:33:04,694 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:33:04,694 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:33:04,694 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le MEDEF souhaite industrialiser l'identification et la chasse aux nouveaux adhérents, faciliter le travail de Florence, scorer des prospects en fonction de leur intérêt, et automatiser des tâches comme la mise à jour du CRM et la veille stratégique."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Unknown speaker 4] Mais c'est là où il ne faut pas qu'on fasse d'erreur. Il faut être très conscient de nos cibles, éliminer les adhérents."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Le MEDEF 93-94 est une organisation patronale avec 1300 adhérents, visant à accompagner les entreprises dans divers domaines (social, fiscal, commercial). Ils représentent également les entreprises dans des instances comme le conseil de prud'hommes et le tribunal de commerce. Ils utilisent un CRM qui n'est pas optimisé et sont en train d'en choisir un nouveau."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Unknown speaker 3] C'est royal pour nous parce que si la cotisation dépend du nombre de salariés."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Unknown speaker 3] Vous avez une bonne manière de voir, je pense."
+  },
+  "prochaineActionActee": {
+    "present": false,
+    "description": ""
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Unknown speaker 3] Et on se disait avec Julien un jour, il y a Vanessa qui prend les gens, qui audite le problème.\nEst-ce qu'il n'y aurait pas un agent IA qui pourrait présélectionner ?"
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:33:04,694 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:33:04,694 - analyzer - INFO - Longueur réponse LLM: 2069 caractères
+2026-01-30 10:33:04,694 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:33:04,694 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:33:04,695 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le MEDEF souhaite industrialiser l'identification et la chasse aux nouveaux adhérents, faciliter le travail de Florence, scorer des prospects en fonction de leur intérêt, et automatiser des tâches comme la mise à jour du CRM et la veille stratégique."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Unknown speaker 4] Mais c'est là où il ne faut pas qu'on fasse d'erreur. Il faut être très conscient de nos cibles, éliminer les adhérents."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Le MEDEF 93-94 est une organisation patronale avec 1300 adhérents, visant à accompagner les entreprises dans divers domaines (social, fiscal, commercial). Ils représentent également les entreprises dans des instances comme le conseil de prud'hommes et le tribunal de commerce. Ils utilisent un CRM qui n'est pas optimisé et sont en train d'en choisir un nouveau."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Unknown speaker 3] C'est royal pour nous parce que si la cotisation dépend du nombre de salariés."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Unknown speaker 3] Vous avez une bonne manière de voir, je pense."
+  },
+  "prochaineActionActee": {
+    "present": false,
+    "description": ""
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Unknown speaker 3] Et on se disait avec Julien un jour, il y a Vanessa qui prend les gens, qui audite le problème.\nEst-ce qu'il n'y aurait pas un agent IA qui pourrait présélectionner ?"
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:33:04,695 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:33:04,695 - analyzer - INFO - Longueur JSON nettoyé: 2069 caractères
+2026-01-30 10:33:04,695 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:33:04,695 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:33:04,695 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:35:04,651 - analyzer - INFO - ================================================================================
+2026-01-30 10:35:04,651 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:35:04,652 - analyzer - INFO - Longueur transcription: 125090 caractères
+2026-01-30 10:35:04,652 - analyzer - INFO - ================================================================================
+2026-01-30 10:35:08,999 - analyzer - INFO - Réponse LLM reçue, longueur: 2332 caractères
+2026-01-30 10:35:09,004 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:35:09,004 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:35:09,004 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est ça l'avantage, c'est qu'on a des produits qui, maintenant, sont aussi bien hiver qu'été, et du coup, assez variés et dans différents contextes, donc c'est sûr que de pouvoir l'intégrer dans tous ces contextes avec une seule photo de base..."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les prospects attendent la synthèse de la réunion et feront un retour après échange en interne."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:35:09,004 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:35:09,004 - analyzer - INFO - Longueur réponse LLM: 2332 caractères
+2026-01-30 10:35:09,004 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:35:09,004 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:35:09,004 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est ça l'avantage, c'est qu'on a des produits qui, maintenant, sont aussi bien hiver qu'été, et du coup, assez variés et dans différents contextes, donc c'est sûr que de pouvoir l'intégrer dans tous ces contextes avec une seule photo de base..."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les prospects attendent la synthèse de la réunion et feront un retour après échange en interne."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:35:09,004 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:35:09,005 - analyzer - INFO - Longueur JSON nettoyé: 2332 caractères
+2026-01-30 10:35:09,005 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:35:09,005 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:35:09,006 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:40:41,982 - analyzer - INFO - ================================================================================
+2026-01-30 10:40:41,982 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:40:41,982 - analyzer - INFO - Longueur transcription: 125090 caractères
+2026-01-30 10:40:41,982 - analyzer - INFO - ================================================================================
+2026-01-30 10:40:54,465 - analyzer - INFO - Réponse LLM reçue, longueur: 2332 caractères
+2026-01-30 10:40:54,466 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:40:54,466 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:40:54,466 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est ça l'avantage, c'est qu'on a des produits qui, maintenant, sont aussi bien hiver qu'été, et du coup, assez variés et dans différents contextes, donc c'est sûr que de pouvoir l'intégrer dans tous ces contextes avec une seule photo de base..."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les prospects attendent la synthèse de la réunion et feront un retour après échange en interne."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:40:54,466 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:40:54,466 - analyzer - INFO - Longueur réponse LLM: 2332 caractères
+2026-01-30 10:40:54,466 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:40:54,466 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:40:54,466 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": false,
+    "liste": []
+  },
+  "infosContexte": {
+    "present": false,
+    "resume": ""
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est ça l'avantage, c'est qu'on a des produits qui, maintenant, sont aussi bien hiver qu'été, et du coup, assez variés et dans différents contextes, donc c'est sûr que de pouvoir l'intégrer dans tous ces contextes avec une seule photo de base..."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les prospects attendent la synthèse de la réunion et feront un retour après échange en interne."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:40:54,466 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:40:54,466 - analyzer - INFO - Longueur JSON nettoyé: 2332 caractères
+2026-01-30 10:40:54,466 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:40:54,467 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:40:54,467 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:41:53,388 - analyzer - INFO - ================================================================================
+2026-01-30 10:41:53,388 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:41:53,389 - analyzer - INFO - Longueur transcription: 125090 caractères
+2026-01-30 10:41:53,389 - analyzer - INFO - ================================================================================
+2026-01-30 10:42:01,185 - analyzer - INFO - Réponse LLM reçue, longueur: 2521 caractères
+2026-01-30 10:42:01,186 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:42:01,186 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:42:01,186 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Rossignol a une année fiscale décalée qui commence au 1er avril. Ils ont un site B2C sur Salesforce et un site B2B sur Symfony. Ils ont aussi des canaux de vente sur Zalando. Ils ont entre 150 et 200 commerciaux au terrain. L'omnicanalité est un point faible chez Rossignol."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est très intéressant et on voit vraiment des résultats. En cinq minutes, on voit des choses qui sont quand même très parlantes. Après, il faut forcément l'adapter."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les équipes de Rossignol vont échanger en interne et feront un retour sur la suite à donner."
+  },
+  "traitementObjections": {
+    "present": false,
+    "liste": []
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:42:01,186 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:42:01,186 - analyzer - INFO - Longueur réponse LLM: 2521 caractères
+2026-01-30 10:42:01,186 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:42:01,186 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:42:01,186 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": false,
+    "resume": ""
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[cbazin@rossignol.com] Là où j'ai un peu plus une crainte, c'est quand on a une société comme la vôtre, Natalia, on part directement avec les bonnes habitudes, etc. Et tout est plus simple à mettre en place. Mais aujourd'hui, Rossignol, c'est quand même une entreprise, c'est pas une grande entreprise, mais c'est quand même une boîte. On a quand même un ERP qui tourne sur la S400. On a quand même des serveurs en physique. On n'est pas chez AWS, etc. Donc, on a tout un tas d'applications. On a Salesforce, par exemple.",
+      "[cbazin@rossignol.com] Et là, on voit concrètement dans votre entreprise comment vous pouvez vous servir de vos outils IA. Mais moi, la question que je me demande, c'est comment on peut transposer toute cette puissance sur une boîte qui est plus grosse, en fait, et qui a des outils. J'imagine que vous avez des connecteurs self-force, ce genre de choses. Mais typiquement, le nerf de la guerre et les datas, la base de données, j'imagine que c'est beaucoup plus complexe à mettre en place."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Rossignol a une année fiscale décalée qui commence au 1er avril. Ils ont un site B2C sur Salesforce et un site B2B sur Symfony. Ils ont aussi des canaux de vente sur Zalando. Ils ont entre 150 et 200 commerciaux au terrain. L'omnicanalité est un point faible chez Rossignol."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": false,
+    "citation": ""
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Vittoz Yoann] C'est très intéressant et on voit vraiment des résultats. En cinq minutes, on voit des choses qui sont quand même très parlantes. Après, il faut forcément l'adapter."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les équipes de Rossignol vont échanger en interne et feront un retour sur la suite à donner."
+  },
+  "traitementObjections": {
+    "present": false,
+    "liste": []
+  },
+  "noteGlobale": 6,
+  "etapesAccomplies": [
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:42:01,186 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:42:01,186 - analyzer - INFO - Longueur JSON nettoyé: 2521 caractères
+2026-01-30 10:42:01,186 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:42:01,186 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:42:01,186 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:45:23,729 - analyzer - INFO - ================================================================================
+2026-01-30 10:45:23,729 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:45:23,730 - analyzer - INFO - ================================================================================
+2026-01-30 10:45:24,800 - analyzer - INFO - ================================================================================
+2026-01-30 10:45:24,800 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 10:45:24,801 - analyzer - INFO - ================================================================================
+2026-01-30 10:47:11,238 - analyzer - INFO - ================================================================================
+2026-01-30 10:47:11,238 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 10:47:11,238 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 10:47:11,238 - analyzer - INFO - ================================================================================
+2026-01-30 10:47:16,098 - analyzer - INFO - Réponse LLM reçue, longueur: 3150 caractères
+2026-01-30 10:47:16,099 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:47:16,099 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 10:47:16,099 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des stocks, et en personnalisant l'expérience utilisateur sur son site e-commerce. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basketball avec des points de vente physiques et un site e-commerce. Ils utilisent PrestaShop, Effitras et un logiciel de précomptabilité. Ils ont une base de données d'environ 100 000 produits et 4 000 références. Ils sont en train de refondre leur site web et cherchent à automatiser certaines tâches. Ils ont déjà des licences ChatGPT et Gemini, mais leur utilisation est limitée."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+       "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:47:16,100 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:47:16,100 - analyzer - INFO - Longueur réponse LLM: 3150 caractères
+2026-01-30 10:47:16,101 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:47:16,101 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 10:47:16,101 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des stocks, et en personnalisant l'expérience utilisateur sur son site e-commerce. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basketball avec des points de vente physiques et un site e-commerce. Ils utilisent PrestaShop, Effitras et un logiciel de précomptabilité. Ils ont une base de données d'environ 100 000 produits et 4 000 références. Ils sont en train de refondre leur site web et cherchent à automatiser certaines tâches. Ils ont déjà des licences ChatGPT et Gemini, mais leur utilisation est limitée."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] C'est cette étape-là qu'il faudrait qu'on passe maintenant."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+       "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 10:47:16,102 - analyzer - DEBUG - ================================================================================
+2026-01-30 10:47:16,102 - analyzer - INFO - Longueur JSON nettoyé: 3150 caractères
+2026-01-30 10:47:16,102 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:47:16,103 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 10:47:16,104 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 10:47:16,112 - analyzer - INFO - Note calculée automatiquement: 6/8 = 7.5/10
+2026-01-30 11:37:00,698 - analyzer - INFO - ================================================================================
+2026-01-30 11:37:00,698 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 11:37:00,698 - analyzer - INFO - ================================================================================
+2026-01-30 11:43:22,575 - analyzer - INFO - ================================================================================
+2026-01-30 11:43:22,575 - analyzer - INFO - Démarrage de l'analyseur SalesCoach
+2026-01-30 11:43:22,576 - analyzer - INFO - ================================================================================
+2026-01-30 14:05:42,133 - analyzer - INFO - ================================================================================
+2026-01-30 14:05:42,133 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 14:05:42,133 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 14:05:42,133 - analyzer - INFO - ================================================================================
+2026-01-30 14:05:47,433 - analyzer - INFO - Réponse LLM reçue, longueur: 3745 caractères
+2026-01-30 14:05:47,434 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:05:47,434 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 14:05:47,434 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des stocks, et en personnalisant l'expérience utilisateur sur son site e-commerce. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation. Là, effectivement, je comprends bien où vous voulez nous amener. Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basketball avec des points de vente physiques et un site e-commerce. Ils utilisent PrestaShop, Effitras et un logiciel de précomptabilité. Ils ont une base de données de 100 000 produits et 4 000 références. Ils ont deux licences ChatGPT et utilisent Gemini de Google Workspace de manière limitée. Ils sont en train de déployer un logiciel de service client appelé CRISP."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation. Là, effectivement, je comprends bien où vous voulez nous amener. Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 14:05:47,434 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:05:47,434 - analyzer - INFO - Longueur réponse LLM: 3745 caractères
+2026-01-30 14:05:47,434 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:05:47,434 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 14:05:47,435 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment en automatisant le service client, en améliorant la gestion des achats et des stocks, et en personnalisant l'expérience utilisateur sur son site e-commerce. Ils cherchent à intégrer l'IA pour gagner en efficacité, réduire les coûts et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation. Là, effectivement, je comprends bien où vous voulez nous amener. Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale de distribution d'articles de basketball avec des points de vente physiques et un site e-commerce. Ils utilisent PrestaShop, Effitras et un logiciel de précomptabilité. Ils ont une base de données de 100 000 produits et 4 000 références. Ils ont deux licences ChatGPT et utilisent Gemini de Google Workspace de manière limitée. Ils sont en train de déployer un logiciel de service client appelé CRISP."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus. L'étape diagnostique, je pense qu'on va trouver tellement de cas d'usage que ça va plus être la priorisation qui sera le vrai sujet que de trouver des sujets."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation. Là, effectivement, je comprends bien où vous voulez nous amener. Le schéma est convaincant. C'est cette étape-là qu'il faudrait qu'on passe maintenant.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Signaux d'intérêt pour acheter",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 14:05:47,435 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:05:47,435 - analyzer - INFO - Longueur JSON nettoyé: 3745 caractères
+2026-01-30 14:05:47,436 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 14:05:47,436 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 14:05:47,438 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 14:05:47,440 - analyzer - INFO - Note calculée automatiquement: 6/8 = 7.5/10
+2026-01-30 14:05:57,678 - analyzer - INFO - ================================================================================
+2026-01-30 14:05:57,678 - analyzer - INFO - NOUVELLE REQUÊTE D'ANALYSE - Provider: gemini, Modèle: gemini-2.0-flash
+2026-01-30 14:05:57,678 - analyzer - INFO - Longueur transcription: 109839 caractères
+2026-01-30 14:05:57,679 - analyzer - INFO - ================================================================================
+2026-01-30 14:06:03,648 - analyzer - INFO - Réponse LLM reçue, longueur: 4228 caractères
+2026-01-30 14:06:03,649 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:06:03,649 - analyzer - DEBUG - RÉPONSE LLM BRUTE COMPLÈTE:
+2026-01-30 14:06:03,649 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment l'automatisation du service client, la gestion des achats, la centralisation des données, et l'amélioration de l'expérience utilisateur sur le site web. Ils cherchent à intégrer l'IA pour réduire les coûts, gagner en efficacité et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème.",
+      "[Mélissande KRETZ] Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte.",
+      "[Mélissande KRETZ] Parce qu'on est mine de rien une petite entreprise.",
+      "[Mélissande KRETZ] Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement.",
+      "[Mélissande KRETZ] Donc, il y a peut-être un intermédiaire à trouver avec la BIA.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont 4000 références en stock et une base de données de 100 000 produits. Ils ont deux licences ChatGPT, une licence Gamma, et utilisent Gémini. Ils sont en train de déployer un logiciel appelé CRISP pour automatiser certains processus. La chaîne de décision est immédiate car l'entreprise a été créée par le conjoint de Mélissande."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] J'ai une impression très mitigée.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] Pour être tout à fait transparente, j'avais déjà un contact avec une autre entreprise qui s'appelle E-Assister."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 14:06:03,649 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:06:03,649 - analyzer - INFO - Longueur réponse LLM: 4228 caractères
+2026-01-30 14:06:03,650 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:06:03,650 - analyzer - DEBUG - JSON NETTOYÉ COMPLET:
+2026-01-30 14:06:03,650 - analyzer - DEBUG - {
+  "besoinExprime": {
+    "present": true,
+    "resume": "Le client souhaite optimiser ses processus internes, notamment l'automatisation du service client, la gestion des achats, la centralisation des données, et l'amélioration de l'expérience utilisateur sur le site web. Ils cherchent à intégrer l'IA pour réduire les coûts, gagner en efficacité et rester compétitifs."
+  },
+  "craintesFreins": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] Mais c'est de faire fonctionner tout ça ensemble qui nous pose problème.",
+      "[Mélissande KRETZ] Et c'est vrai qu'il n'y a pas de logiciel sur le marché qui soit efficace à la taille de notre boîte.",
+      "[Mélissande KRETZ] Parce qu'on est mine de rien une petite entreprise.",
+      "[Mélissande KRETZ] Quand on parle de RP, on est tout de suite sur des installations à 20-30 000 euros. mais qui n'ont pas forcément de sens compte tenu du nombre de personnes qu'on est et de notre fonctionnement.",
+      "[Mélissande KRETZ] Donc, il y a peut-être un intermédiaire à trouver avec la BIA.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] J'ai une impression très mitigée."
+    ]
+  },
+  "infosContexte": {
+    "present": true,
+    "resume": "Basketballers est une entreprise familiale en milieu concurrentiel, avec une holding et des filiales par magasin. Ils utilisent PrestaShop, Effitras, et un logiciel de précomptabilité. Ils ont 4000 références en stock et une base de données de 100 000 produits. Ils ont deux licences ChatGPT, une licence Gamma, et utilisent Gémini. Ils sont en train de déployer un logiciel appelé CRISP pour automatiser certains processus. La chaîne de décision est immédiate car l'entreprise a été créée par le conjoint de Mélissande."
+  },
+  "budgetEstime": {
+    "present": false,
+    "valeurOuFourchette": ""
+  },
+  "verbatimPersonnalite": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] J'aimerais bien que vous nous fassiez déjà une proposition financière pour le coût du diagnostic de cette journée, qu'on voit un peu où ça nous ramène."
+  },
+  "verbatimPositif": {
+    "present": true,
+    "citation": "[Mélissande KRETZ] Pour moi, le chantier, il est colossal. Je n'ai pas de doute qu'il faut avancer dessus."
+  },
+  "prochaineActionActee": {
+    "present": true,
+    "description": "Les commerciaux doivent envoyer une proposition financière pour le coût du diagnostic."
+  },
+  "traitementObjections": {
+    "present": true,
+    "liste": [
+      "[Mélissande KRETZ] J'ai une impression très mitigée.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] c'est quoi l'outil ou les outils ? qu'on a besoin d'avoir, parce que le risque avec l'IA, c'est avec la multiplicité des solutions qui sont proposées, c'est de se perdre.",
+      "[Mélissande KRETZ] Et donc, comment on protège l'entreprise pour qu'il n'y ait pas des datas qui partent n'importe où, comment on sélectionne les bons outils pour qu'on soit vite efficace et qu'on n'aille pas se perdre dans tous les sens.",
+      "[Mélissande KRETZ] J'ai besoin aussi d'avoir une vision budgétaire au-delà de la prestation.",
+      "[Mélissande KRETZ] Pour être tout à fait transparente, j'avais déjà un contact avec une autre entreprise qui s'appelle E-Assister."
+    ]
+  },
+  "noteGlobale": 0,
+  "etapesAccomplies": [
+    "Besoin client clairement exprimé",
+    "Craintes et freins collectés",
+    "Infos de contexte collectées",
+    "Verbatim positif / intérêt client",
+    "Prochaine action actée avec le client"
+  ],
+  "etapesManquantes": [
+    "Budget estimé ou fourchette",
+    "Signaux d'intérêt pour acheter",
+    "Traitement des objections"
+  ]
+}
+2026-01-30 14:06:03,650 - analyzer - DEBUG - ================================================================================
+2026-01-30 14:06:03,650 - analyzer - INFO - Longueur JSON nettoyé: 4228 caractères
+2026-01-30 14:06:03,650 - analyzer - INFO - ✓ JSON parsé avec succès, clés trouvées: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 14:06:03,650 - analyzer - INFO - JSON parsé avec succès, clés: ['besoinExprime', 'craintesFreins', 'infosContexte', 'budgetEstime', 'verbatimPersonnalite', 'verbatimPositif', 'prochaineActionActee', 'traitementObjections', 'noteGlobale', 'etapesAccomplies', 'etapesManquantes']
+2026-01-30 14:06:03,650 - analyzer - INFO - Validation Pydantic réussie
+2026-01-30 14:06:03,650 - analyzer - INFO - Note calculée automatiquement: 6/8 = 7.5/10
