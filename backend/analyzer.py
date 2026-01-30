@@ -315,7 +315,7 @@ def _call_gemini(transcription: str) -> str:
     """Appel API Google Gemini (generateContent)."""
     _write_debug("Appel à l'API Gemini en cours...")
     
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    url = f"https://generativelanguage.googleapis.com/v1/models/{MODEL}:generateContent"
     headers = {
         "x-goog-api-key": GEMINI_API_KEY,
         "Content-Type": "application/json",
