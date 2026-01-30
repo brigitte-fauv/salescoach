@@ -16,4 +16,9 @@ export default defineConfig({
       clientPort: 443, // Port HTTPS pour Cloudflare
     },
   },
+  preview: {
+    host: true, // Permet l'accès depuis n'importe quel domaine en mode preview
+    port: 4173,
+    strictPort: false,
+  },
 })
