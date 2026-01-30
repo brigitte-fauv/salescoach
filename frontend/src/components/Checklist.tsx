@@ -16,9 +16,9 @@ interface ChecklistProps {
 }
 
 function isPresent(
-  v: AnalyzeResponse['besoinExprime'] | AnalyzeResponse['craintesFreins'] | AnalyzeResponse['budgetEstime'] | AnalyzeResponse['verbatimPersonnalite'] | AnalyzeResponse['verbatimPositif'] | AnalyzeResponse['prochaineActionActee'],
+  v: any
 ): boolean {
-  return 'present' in v && !!v.present
+  return v && typeof v === 'object' && 'present' in v && !!v.present
 }
 
 export default function Checklist({ data }: ChecklistProps) {
