@@ -320,16 +320,17 @@ def _call_gemini(transcription: str) -> str:
         "x-goog-api-key": GEMINI_API_KEY,
         "Content-Type": "application/json",
     }
+    
+    # Instructions système intégrées directement dans le prompt pour compatibilité API v1
+    system_instruction = "Tu es un assistant qui répond UNIQUEMENT en JSON valide. Ta réponse doit commencer par {{ et finir par }}. AUCUN texte avant ou après. AUCUN markdown. AUCUN bloc de code. Réponds directement avec l'objet JSON, sans aucun formatage.\n\n"
+    full_prompt = system_instruction + ANALYSIS_PROMPT.format(transcription=transcription)
+    
     payload = {
-        "systemInstruction": {
-            "parts": [{"text": "Tu es un assistant qui répond UNIQUEMENT en JSON valide. Ta réponse doit commencer par {{ et finir par }}. AUCUN texte avant ou après. AUCUN markdown. AUCUN bloc de code. Réponds directement avec l'objet JSON, sans aucun formatage."}],
-        },
         "contents": [
-            {"parts": [{"text": ANALYSIS_PROMPT.format(transcription=transcription)}]},
+            {"parts": [{"text": full_prompt}]},
         ],
         "generationConfig": {
             "temperature": 0.1,
-            "responseMimeType": "application/json",
         },
     }
     try:
