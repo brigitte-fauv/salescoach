@@ -17,8 +17,12 @@ export default defineConfig({
     },
   },
   preview: {
-    host: true, // Permet l'accès depuis n'importe quel domaine en mode preview
+    host: '0.0.0.0', // Permet l'accès depuis n'importe quelle IP
     port: 4173,
     strictPort: false,
+    allowedHosts: [
+      'salescoach-frontend.onrender.com',
+      '.onrender.com', // Autorise tous les sous-domaines onrender.com
+    ],
   },
 })
