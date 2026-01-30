@@ -20,7 +20,7 @@ export default function App() {
     } catch (e) {
       const msg = e instanceof Error ? e.message : 'Erreur lors de l\'analyse.'
       if (/failed to fetch|network|load/i.test(String(msg)))
-        setError('Impossible de joindre l\'API. Vérifie que le backend tourne sur http://127.0.0.1:8000.')
+        setError('Impossible de joindre l\'API. Vérifie que le backend est accessible.')
       else
         setError(msg)
     } finally {
